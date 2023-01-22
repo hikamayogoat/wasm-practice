@@ -3,3 +3,5 @@
 /node_modules
 /dist
 /package-lock.json
+/src/snippets/
+/src/wasm_dev_book_*
